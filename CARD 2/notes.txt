@@ -1,0 +1,9 @@
+react agent
+agent
+    - automatiza o loop de conversação para o melhjoramento de um apergunta, tirando aquela conversinhaa te´dar o resultado bom
+react agent
+    react pattern
+        - inuitive way to create an agent
+        - depende do loop thought action observation
+        - pensa em um loop de conversação, onde a ação é gerar uma pergunta, a observação é a resposta do usuário e o pensamento é melhorar a pergunta com base na resposta.
+        - o agente é um loop de conversação que gera perguntas e melhora as perguntas com base nas respostas do usuário.
